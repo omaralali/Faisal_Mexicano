@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0a0f0a"/>
+  <g transform="translate(256 246)">
+    <!-- racket head -->
+    <ellipse cx="0" cy="-46" rx="132" ry="150" fill="none" stroke="#00e676" stroke-width="26"/>
+    <!-- perforations -->
+    <g fill="#00e676" opacity="0.85">
+      <circle cx="-56" cy="-116" r="13"/><circle cx="0" cy="-136" r="13"/><circle cx="56" cy="-116" r="13"/>
+      <circle cx="-76" cy="-52" r="13"/><circle cx="-24" cy="-70" r="13"/><circle cx="24" cy="-70" r="13"/><circle cx="76" cy="-52" r="13"/>
+      <circle cx="-56" cy="6" r="13"/><circle cx="0" cy="-12" r="13"/><circle cx="56" cy="6" r="13"/>
+      <circle cx="-24" cy="60" r="13"/><circle cx="24" cy="60" r="13"/>
+    </g>
+    <!-- throat + handle -->
+    <path d="M -34 96 L 34 96 L 26 152 L -26 152 Z" fill="#00e676"/>
+    <rect x="-24" y="150" width="48" height="94" rx="22" fill="#00e676"/>
+    <rect x="-30" y="228" width="60" height="20" rx="10" fill="#00c85e"/>
+  </g>
+</svg>
